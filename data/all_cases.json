@@ -1,0 +1,295 @@
+[
+  {
+    "amount": 5,
+    "customers": [
+      [
+        {
+          "amount": 1,
+          "type": "P"
+          
+        },
+        {
+          "amount": 3,
+          "type": "R"
+          
+        },
+        {
+          "amount": 5,
+          "type": "R"
+          
+        }
+      ],
+      [
+        {
+          "amount": 2,
+          "type": "R"
+          
+        },
+        {
+          "amount": 3,
+          "type": "P"
+          
+        },
+        {
+          "amount": 4,
+          "type": "R"
+          
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "P"
+        }
+      ]
+    ]
+  },
+  {
+    "amount": 1,
+    "customers": [
+      [
+        {
+          "amount": 1,
+          "type": "R"
+
+        }
+      ],
+      [
+        {
+          "amount": 1,
+          "type": "P"
+
+        }
+      ]
+    ]
+  },
+  {
+    "amount": 5,
+    "customers": [
+      [
+        {
+          "amount": 2,
+          "type": "P"
+
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "R"
+
+        }
+      ],
+      [
+        {
+          "amount": 1,
+          "type": "R"
+
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "R"
+        },
+        {
+          "amount": 1,
+          "type": "R"
+        },
+        {
+          "amount": 4,
+          "type": "P"
+        }
+      ],
+      [
+        {
+          "amount": 3,
+          "type": "R"
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "R"
+        }
+      ],
+      [
+        {
+          "amount": 3,
+          "type": "R"
+        },
+        {
+          "amount": 5,
+          "type": "R"
+        },
+        {
+          "amount": 1,
+          "type": "R"
+        }
+      ],
+      [
+        {
+          "amount": 3,
+          "type": "R"
+        }
+      ],
+      [
+        {
+          "amount": 2,
+          "type": "P"
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "R"
+        },
+        {
+          "amount": 1,
+          "type": "R"
+        }
+      ],
+      [
+        {
+          "amount": 2,
+          "type": "P"
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "R"
+        }
+      ],
+      [
+        {
+          "amount": 4,
+          "type": "P"
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "R"
+        },
+        {
+          "amount": 4,
+          "type": "P"
+        }
+      ]
+    ]
+  },
+  {
+    "amount": 2,
+    "customers": [
+      [
+        {
+          "amount": 1,
+          "type": "R"
+        },
+        {
+          "amount": 2,
+          "type": "P"
+        }
+      ],
+      [
+        {
+          "amount": 1,
+          "type": "P"
+
+        }
+      ]
+    ]
+  },
+  {
+    "amount": 6,
+    "customers": [
+      [
+        {
+          "amount": 1,
+          "type": "R"
+        },
+        {
+          "amount": 2,
+          "type": "P"
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "P"
+        },
+        {
+          "amount": 2,
+          "type": "R"
+        }
+      ]
+    ]
+  },
+  {
+    "amount": 4,
+    "customers": [
+      [
+        {
+          "amount": 1,
+          "type": "R"
+        },
+        {
+          "amount": 2,
+          "type": "P"
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "P"
+        },
+        {
+          "amount": 2,
+          "type": "R"
+        },
+        {
+          "amount": 1,
+          "type": "R"
+        },
+        {
+          "amount": 5,
+          "type": "P"
+        }
+      ]
+    ]
+  },
+  {
+    "amount": 3,
+    "customers": [
+      [
+        {
+          "amount": 1,
+          "type": "R"
+        },
+        {
+          "amount": 2,
+          "type": "P"
+        },
+        {
+          "amount": 4,
+          "type": "P"
+        }
+      ],
+      [
+        {
+          "amount": 5,
+          "type": "P"
+        },
+        {
+          "amount": 2,
+          "type": "R"
+        },
+        {
+          "amount": 2,
+          "type": "R"
+        }
+      ]
+    ]
+  }
+]
